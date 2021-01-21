@@ -1,0 +1,19 @@
+GoTrace
+GoTrace integrates the collection of daily health survey
+and location tracking data of the end-users on a digital and web platform to generate real-time, accurate, and reliable contact tracing reports.
+Contact tracing with GoTrace becomes possible in three easy steps. To begin with, the end-user must register to create an account. Next, when the account has been confirmed, he/she will have access to the daily health survey form. A QR code is assigned to access the link for the health survey which will require the ID number of the end-user. Lastly, once the responses to the health survey are recorded, the end-user can now access the other QR codes in various locations on the campus or site.
+
+What's New in Version 1.0.1 
+January 18, 2021 10:05 PM
+What's New
+* From today, you'll notice a QRcode generator can generate Health Survey per Location (when scanning health survey QRcode will record the health declaration information of the user and login on the specific location, however, the use of health survey remain once a day) 
+* Level of Security - added level 2 for University physician, can shift to other campus records (available at the navigation bar log out portion)
+* User can download the QRcode and resources template on the QRcode generator page.
+* Added sidebar for Release note
+
+Bug Fixes
+* Users can open pages without an active login
+* Registration page responsiveness 
+
+GoTrace release notes to highlight their spirit of continual improvement.
+

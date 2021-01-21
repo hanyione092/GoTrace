@@ -94,5 +94,13 @@
             </a>
           </li>';
         }?>
+
+
+          <li class="nav-item">
+            <a class="nav-link" href="releasenote.txt">
+              <i class="mdi mdi-clipboard-check menu-icon"></i>
+              <span class="menu-title">Release Note</span>
+            </a>
+          </li>        
         </ul>
       </nav>
