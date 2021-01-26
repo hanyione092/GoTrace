@@ -1,0 +1,12 @@
+Concern 001- CvSU Main 
+ERROR in adding Location -fixed
+As of Jan 26,2021 10:41am
+
+Fixed details.
+Auto Number error-user delete in between 51 to 56.
+Update tbl_location set locid='52' where locid='56';
+Update tbl_location set locid='53' where locid='57';
+Update tbl_location set locid='54' where locid='58';
+Update tbl_location set locid='55' where locid='59';
+Update tbl_location set locid='56' where locid='60';
+
